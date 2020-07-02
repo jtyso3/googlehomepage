@@ -1,0 +1,66 @@
+#a-one {
+  color: #000;
+  font-size: 15px;
+  text-decoration: none;
+  font-family: arial,sans-serif;
+}
+
+#a-one:hover {
+  color: #000;
+  font-size: 15px;
+  text-decoration: underline;
+  font-family: arial,sans-serif;
+}
+
+#div-one{
+  position: absolute;
+  top: 8px;
+  left: 8px;
+}
+#div-two{
+  position: absolute;
+  top: 8px;
+  right:8px;
+}
+#div-three{
+  position: absolute;
+  top: 35%;
+  left: 40%;
+}
+#div-four{
+  position: absolute;
+  top: 55%;
+  left: 35%;
+}
+#div-five{
+  position: absolute;
+  top: 65%;
+  left: 40%;
+  padding: 10px;
+}
+#button{
+  height: 35px;
+  border-width: 0px;
+  border-color: #000;
+  background-color: #e6ffcc
+}
+#button:hover{
+  height: 35px;
+  border-width: 1px;
+  border-color: #000;
+  background-color: #e6ffcc
+}
+#search-bar{
+    width:450px;
+    height: 35px;
+    border-radius: 25px;
+    font-size: 12px;
+  }
+
+#footer{
+  position: absolute;
+  bottom: 0px;
+  left: 8px;
+  width: 100%;
+  background-color: #A9A9A9;
+}
